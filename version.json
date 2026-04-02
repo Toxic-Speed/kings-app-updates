@@ -1,5 +1,12 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://www.dropbox.com/scl/fi/ujz66oz987oytkvxyh6na/KINGS-AI-AIMLOCK-MOUSE-Setup-1.0.0.exe?rlkey=z0yelzdx3xqgnx04zpejcxynu&st=fcr8t38t&dl=0",
-  "changelog": "Graphs updated"
+    "version": "1.0.0",
+    "latest": "1.0.0",
+    "has_update": false,
+    "download_url": "https://github.com/Toxic-Speed/kings-app-updates/releases/latest",
+    "changelog": [
+          "Professional KINGS AI Branding Initialized",
+          "Discord RPC fully synchronized and responsive",
+          "Critical HWID authentication fix applied",
+          "Backend performance optimizations for Win11"
+    ]
 }
